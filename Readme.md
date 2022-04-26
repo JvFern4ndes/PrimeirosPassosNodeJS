@@ -13,8 +13,8 @@ O que é a representação do Estado?
 O que são Módulos?
 <br>São conjuntos de códigos que nós conseguimos ou não reutiliziar.
     Dentro do node existem 3 tipos de módulos:
-    - TODOS OS ARQUIVOS JAVASCRIPT SÃO MÓDULOS;
-    - Nativos, são módulos que ja veêm dentro do próprio node;
-    - npm (Node Package Manager), é básicamente um lugar onde podemos públicar os módulos que criamos, para que qaulquer pessoa possa utiliza-los;
+    <br>- TODOS OS ARQUIVOS JAVASCRIPT SÃO MÓDULOS;
+    <br>- Nativos, são módulos que ja veêm dentro do próprio node;
+    <br>- npm (Node Package Manager), é básicamente um lugar onde podemos públicar os módulos que criamos, para que qaulquer pessoa possa utiliza-los;
 
     
